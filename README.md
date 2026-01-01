@@ -1,2 +1,4 @@
 # LinearAlgebraCourse
-This repository contains content for a first course in linear algebra.
+This repository contains content for a course in linear algebra.
+
+The content consists of Jupyter notebooks created in Visual Studio Code.
